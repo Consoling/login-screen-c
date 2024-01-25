@@ -5,6 +5,7 @@ int main() {
     char ch;
     char pass[20];
     int i=0;
+    int j = 0;
     ch = getch();
 
 
